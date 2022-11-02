@@ -4,6 +4,7 @@
 <div align="center">  
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=lesantosx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesantosx&layout=compact&langs_count=7&theme=tokyonight"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ##
