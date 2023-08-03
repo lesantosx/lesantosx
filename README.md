@@ -1,9 +1,11 @@
-### Hi I'm Letícia | Front-end developer 
+### Hi I'm Letícia
 
+## 🚀 Sobre mim
+I'm a front-end developer with 3+ years of web development experience.
 
 ##
 
-### My Skills
+### :pushpin: My Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
