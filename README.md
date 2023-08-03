@@ -1,6 +1,6 @@
-### Hi I'm Letícia
+## Hi I'm Letícia 👋
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 I'm a front-end developer with 3+ years of web development experience.
 
 ##
