@@ -1,12 +1,9 @@
 ### Hi I'm Letícia | Front-end developer 
 
 
-<div align="left">    
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesantosx&layout=compact&theme=tokyonight)](https://github.com/lesantosx/github-readme-stats)
-</div>
-
 ##
+
+### My Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
