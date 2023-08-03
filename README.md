@@ -1,5 +1,5 @@
 
-# Hi I'm Letícia Santos
+## Hi I'm Letícia Santos
 I'm a front-end developer with 3+ years of web development experience.
 
 
