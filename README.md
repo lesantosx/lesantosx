@@ -1,4 +1,6 @@
-### Hi I'm Letícia, Web developer 👋
+### Hi I'm Letícia
+
+# Web developer 
 
 
 <div align="left">    
