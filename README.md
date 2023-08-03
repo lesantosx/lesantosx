@@ -1,6 +1,6 @@
 ### Hi I'm Letícia
 
-# Web developer 
+Web developer 
 
 
 <div align="left">    
