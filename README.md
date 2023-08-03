@@ -1,7 +1,4 @@
-### Hi I'm Letícia
-
-Web developer 
-
+### Hi I'm Letícia | Front-end developer 
 
 <div align="left">    
   
