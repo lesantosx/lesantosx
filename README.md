@@ -1,6 +1,6 @@
 
 ## Hi I'm Letícia Santos
-I'm a front-end developer with 3+ years of web development experience.
+I'm a front-end developer with 4+ years of web development experience.
 
 
 ### 💻 Tech Stack:
