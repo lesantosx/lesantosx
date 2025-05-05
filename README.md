@@ -10,8 +10,6 @@ I'm a Front-end developer with 4+ years of web development experience.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lesantosx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##
-  
-### More about me:
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesantosx)
 
 
