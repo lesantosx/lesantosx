@@ -1,6 +1,6 @@
 
 ## Hi I'm Letícia Santos
-I'm a front-end developer with 4+ years of web development experience.
+I'm a Front-end developer with 4+ years of web development experience.
 
 
 ### 💻 Tech Stack:
@@ -13,6 +13,5 @@ I'm a front-end developer with 4+ years of web development experience.
   
 ### More about me:
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesantosx)
-  [![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/lets.codegirl)
 
 
